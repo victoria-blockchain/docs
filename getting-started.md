@@ -20,3 +20,8 @@ cd victoria
 
 # (optional) Run a simple local node
 python main.py
+```
+## 🧭 Next Steps
+- [Read the Introduction](./index.md)
+- [Join the Discussions](https://github.com/victoria-blockchain/discussions)
+- Follow updates on future testnets
